@@ -17,7 +17,7 @@
 
 
 <p align="left">
-  <a href="www.linkedin.com/in/malki-weerasinghe-2a37482a8" target="_blank">
+  <a href="www.linkedin.com/in/malki-weerasingha-2a37482a8" target="_blank">
     <img align="center"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          height="50"
